@@ -9,12 +9,12 @@ setTimeout(() => {
 setTimeout(() => {
   document.body.style.background = "#ffd6e8";
   text.style.color = "#ff4d88";
-  text.innerText = "Kamu itu tanpa sadar...\n kau itu kicikkk lo babb";
+  text.innerText = "Kau itu sadar ga si babb...\n kau itu kicikkk lo babb";
   btn.style.display = "inline-block";
 }, 3500);
 
 function next() {
-  text.innerText = "Terlambat.\nTapi kamu itu se-berharga itu 💗";
+  text.innerText = "Terlambat.\nTapii ga boleh nangis2 lagi yaa babbbb";
   btn.style.display = "none";
   hati();
 }
