@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Comic Sans MS', cursive;
+  overflow: hidden;
+  transition: background 1s;
+}
+
+#screen {
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-size: 40px;
+  transition: all 1s;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 20px;
+  background: pink;
+  font-size: 14px;
+  cursor: pointer;
+}
